@@ -1,7 +1,8 @@
 # programaci-n-viddeojuegos-los-pepos
 
 ## Plato Favorito
-<img width="447" height="447" alt="images" src="https://github.com/user-attachments/assets/a40a97ff-c3ef-4c40-b9a3-d909d649087b" />
+<img width="447" height="447" alt="images" src="https://github.com/user-attachments/assets/0c1336e5-54b6-42c9-b8b1-1b1166ac611f" />
+
 
 # Nombre: Ever Daniel Medina Martinez
 
