@@ -3,7 +3,6 @@
 ## Plato Favorito
 <img width="447" height="447" alt="images" src="https://github.com/user-attachments/assets/0c1336e5-54b6-42c9-b8b1-1b1166ac611f" />
 
-
 # Nombre: Ever Daniel Medina Martinez
 
 ## Imagen Personal
